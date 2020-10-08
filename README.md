@@ -1,3 +1,3 @@
 # Demo 2
 
-Some updated text
+This repository is for educational purposes only.
